@@ -158,7 +158,7 @@ export default function App() {
       <section id="contact" className="relative z-20 bg-transparent py-16 px-4 text-center">
         <h2 className="text-3xl sm:text-4xl md:text-4xl font-bold mb-4">Contact Me</h2>
         <p className="text-white/80 mb-4 text-sm sm:text-base">Want to discuss your project? Contact me on WhatsApp.</p>
-        <a href="https://wa.me/8872088177" target="_blank" className="inline-block px-4 sm:px-6 py-2 sm:py-3 bg-green-500 text-white font-semibold rounded-lg hover:bg-green-600 transition text-sm sm:text-base">
+        <a href="https://wa.me/+918872088177" target="_blank" className="inline-block px-4 sm:px-6 py-2 sm:py-3 bg-green-500 text-white font-semibold rounded-lg hover:bg-green-600 transition text-sm sm:text-base">
           Contact on WhatsApp
         </a>
       </section>
